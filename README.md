@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O My Links é uma versão mais atualizada do DevLinks que é um agregador de links com a intenção de usá-lo como cartão de visitas online.
+O My Links é uma versão mais atualizada do DevLinks (projeto de estudo da Rocketseat), um agregador de links usado como um cartão de visitas online.
 
 - [Acesse o projeto finalizado, online](https://lfrclnando.github.io/my-links)
 
