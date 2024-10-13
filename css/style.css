@@ -40,3 +40,13 @@ body * {
   margin: 56px auto 0px;
   padding: 0 24px;
 }
+
+/* profile */
+#profile {
+  text-align: center;
+  padding: 24px;
+}
+
+#profile img {  
+  width: 112px;
+}
